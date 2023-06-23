@@ -27,3 +27,5 @@ for item in price:
     total_stock += value
 # print the total using an f string
 print(f"Total Stock: £{total_stock:.2f}")
+
+# end of code
