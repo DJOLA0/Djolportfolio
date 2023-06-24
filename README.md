@@ -4,7 +4,7 @@ I like using data to solve complex problems, and I aim to aid businesses in maki
 
 ## Education
 - Bachelor of Arts in Music Production, BIMM London
-- Data Science Certification, HyperionDev
+- Data Science Certification, HyperionDev. {Tasks in Portfolio}
 
 ## Technical Skills
-- Programming Lnaguages: Python, SQL, R
+- Programming Lnaguages: Python, SQL,
