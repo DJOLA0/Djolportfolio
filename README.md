@@ -8,3 +8,6 @@ I like using data to solve complex problems, and I aim to aid businesses in maki
 
 ## Technical Skills
 - Programming Lnaguages: Python, SQL,
+
+## CAPSTONE PROJECT
+[LINK TO CAPSTONE PROJECT](https://github.com/DJOLA0/finalCapstone.git)
