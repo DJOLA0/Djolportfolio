@@ -55,15 +55,16 @@ while True:
                 result = first_number * second_number
                 print(first_number, operator, second_number, "=", result)
             elif operator == '/':
-                if second_number == 0:
+                if second_number == 0: # you can't divide by 0, but you can divide 0 by a number.
                     print("Division by 0 error")
-                    result = first_number / second_number
-                    print(first_number, operator, second_number, "=", result)
+                    continue # indenting inside the if, allow the program to carry on
+                result = first_number / second_number
+                print(first_number, operator, second_number, "=", result)
             else:
                 print("Please enter a valid operator")
 
             with open("test.txt", "w") as file:
-                file.write(first_number, operator, second_number, "=", result)
+                file.write(f"{first_number} {operator} {second_number} = {result}")
 
     elif choice == "3":
         break
